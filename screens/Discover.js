@@ -167,5 +167,3 @@ const Discover = () => {
     </SafeAreaView>
   );
 };
-
-export default Discover;
